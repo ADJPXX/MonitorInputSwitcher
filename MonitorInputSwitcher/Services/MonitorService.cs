@@ -23,7 +23,7 @@ public class MonitorService
         
         const int displayPort = 15;
         
-        const int hdmi1 = 17;
+        const int hdmi1 = 18;
         
         var success1 = Dxva2.GetNumberOfPhysicalMonitorsFromHMONITOR(hMonitor, out var monitorCount);
         
