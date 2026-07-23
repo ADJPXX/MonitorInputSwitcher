@@ -6,6 +6,8 @@
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
         <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+
+        <ApplicationIcon>Resources\input.ico</ApplicationIcon>
     </PropertyGroup>
 
 </Project>
